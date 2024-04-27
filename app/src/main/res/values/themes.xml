@@ -1,0 +1,17 @@
+<!--suppress ALL -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UTS_Ramlan_Efendi" parent="theme.Material3.Day.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.UTS_Ramlan_Efendi" parent="Base.Theme.UTS_Ramlan_Efendi" />
+
+    <style name="heme"></style>
+</resources>
